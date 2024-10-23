@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
             print(snapshot);
             return GetMaterialApp(
               debugShowCheckedModeBanner: false,
-              title: "Application",
+              title: "MSIB Batch 7",
               initialRoute: snapshot.data != null ? Routes.HOME : Routes.LOGIN,
               getPages: AppPages.routes,
               theme: ThemeData(
