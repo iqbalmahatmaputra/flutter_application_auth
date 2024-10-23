@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320807342604",
+    "project_id": "food-catalogs-86086",
+    "storage_bucket": "food-catalogs-86086.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320807342604:android:d5b9ec68337faf84219429",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS4UOuGBQ2FeA4XEfPnx-TnIplTn87RVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
